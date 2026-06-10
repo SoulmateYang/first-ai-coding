@@ -33,7 +33,6 @@ desktop.ini
 logs/
 
 # Local config and sessions (never commit user data)
-firstcode/
 *.local
 
 # Tools (Gradle distribution)
